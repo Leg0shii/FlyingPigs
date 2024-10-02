@@ -1,0 +1,4 @@
+name: FlyingPigs
+version: @version@
+main: de.legoshi.flyingpigs.Main
+api-version: 1.16
